@@ -24,4 +24,4 @@ Sayembara is a platform for peopl­­­e to making contest or searching for cont
 * Apply flow with Redux pattern.
 
 ## Showcase
-![default](Images/Image1.png) ![default](Images/Image2.png) ![default](Images/Image3.png) ![default](Images/Image4.png) ![default](Images/Image5.png) ![default](Images/Image6.png)
+![default](Images/Image1.png =1280x) ![default](Images/Image2.png =600x) ![default](Images/Image3.png) ![default](Images/Image4.png) ![default](Images/Image5.png) ![default](Images/Image6.png)
